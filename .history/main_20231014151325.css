@@ -1,0 +1,22 @@
+body{
+  background-color:black;
+}
+#circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+#name {
+  color:azure
+}
+
+#textme {
+  margin-top: 5px;
+  color: azure;
+}
+
+.socials {
+
+}

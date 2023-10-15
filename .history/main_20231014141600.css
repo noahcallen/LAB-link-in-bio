@@ -1,0 +1,17 @@
+body{
+  background-color:black;
+}
+#circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: 605px;
+  /* margin-bottom: 100px; */
+  margin-top: 15px;
+}
+#textme{
+  margin-left: 550px;
+  margin-top: 5px;
+  color: azure;
+}
