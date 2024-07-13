@@ -51,7 +51,11 @@ body {
   padding-right: 5px;
 }
 
-.col a {
+/* .col a {
   text-decoration: none;
   color: inherit;
+} */
+.col a .btn {
+  display: inline-block;
+  width: 100%;
 }

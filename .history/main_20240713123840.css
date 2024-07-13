@@ -1,0 +1,12 @@
+body {
+  background-color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.profile-pic {
+  display: flex;
+  align-items: center;
+  height: 100px;
+  width: 100px;
+}

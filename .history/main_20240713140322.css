@@ -45,13 +45,7 @@ body {
   margin: 20px;
 }
 
-.png { 
-  width: 50px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-.col a {
-  text-decoration: none;
-  color: inherit;
+.png {
+  padding-left: 10px;
+  padding-right: 10px;
 }

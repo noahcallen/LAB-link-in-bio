@@ -44,14 +44,3 @@ body {
   padding-right: 25px;
   margin: 20px;
 }
-
-.png { 
-  width: 50px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-.col a {
-  text-decoration: none;
-  color: inherit;
-}
