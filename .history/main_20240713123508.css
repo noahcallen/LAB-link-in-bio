@@ -1,0 +1,10 @@
+body {
+  background-color:black;
+  display: flex;
+  justify-content: center;
+}
+.profile-pic {
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+}

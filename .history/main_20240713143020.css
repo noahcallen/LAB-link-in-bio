@@ -51,7 +51,7 @@ body {
   padding-right: 5px;
 }
 
-.col a {
+.btn-link {
   text-decoration: none;
   color: inherit;
 }

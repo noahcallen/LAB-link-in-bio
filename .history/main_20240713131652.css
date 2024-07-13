@@ -1,0 +1,26 @@
+body {
+  background-color:black;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+}
+.card-img-top {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  padding-bottom: 40 px;
+}
+
+.btn {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin: 20px;
+  padding-left: 250px;
+  padding-right: 250px;
+  width: 800px;
+}
