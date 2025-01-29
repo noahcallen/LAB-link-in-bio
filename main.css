@@ -15,7 +15,7 @@ body {
   margin-bottom: 20px;
 }
 
-.btn {
+/* .btn {
   display: flex;
   justify-content: space-around;
   text-align: center;
@@ -23,7 +23,7 @@ body {
   padding-left: 250px;
   padding-right: 250px;
   width: 800px;
-}
+} */
 
 .name {
   color: aliceblue; 
