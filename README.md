@@ -1,6 +1,8 @@
 
 # 🌱 Sapling.io
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6790ba20-705b-4362-a8d0-9b802e1ba431/deploy-status)](https://app.netlify.com/sites/saplingio/deploys)
+
 **Sapling.io** is a minimalist, open-source LinkTree clone built with just **HTML**, **CSS**, and **JavaScript**. It’s fast, lightweight, and easy to customize — perfect for anyone looking to create a personal landing page with all their important links in one place.
 
 > ✨ Fork it. Make it yours. Help it grow.
