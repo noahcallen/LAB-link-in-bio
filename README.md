@@ -1,20 +1,73 @@
-# Link In Bio
 
-## Get Started
-- [Clone](https://nss-evening-curriculum.netlify.app/client/08-clone-github-repos) this repo into `~/workspace/foundations/inclass/`
-- Make setup branch with `index.html, main.css, main.js` files
-- Change background color of `index.html` 
-- Add a console log in `main.js`
-- TEST YOUR CODE, then Push to GitHub, create a PR, and merge to main
+# 🌱 Sapling.io
 
-## The Task
-You will be building Link Landing page
+**Sapling.io** is a minimalist, open-source LinkTree clone built with just **HTML**, **CSS**, and **JavaScript**. It’s fast, lightweight, and easy to customize — perfect for anyone looking to create a personal landing page with all their important links in one place.
 
-## Requirments
-- Use Bootstrap [block-buttons](https://getbootstrap.com/docs/5.1/components/buttons/#block-buttons) to build your landing page.
-- The page should be a static HTML Page with CSS.
+> ✨ Fork it. Make it yours. Help it grow.
 
-Here is an example:
+---
 
-<img width="786" alt="lib" src="https://user-images.githubusercontent.com/29741570/189382443-4714fb38-828b-497a-9dca-f4916972eec8.png">
+## 🪵 Background & Story
 
+Sapling.io is one of the very first projects I built as a developer. It started as a simple way to learn the fundamentals of web development — HTML, CSS, and JavaScript — but it quickly became something more meaningful.
+
+I'm passionate about giving back to the tech community and believe in building tools that empower others. Sapling.io is open source because I want small creators, artists, freelancers, and dreamers to have access to beautiful, functional tools without a paywall.
+
+This project is a small contribution to a much bigger ecosystem of collaboration, creativity, and growth. My hope is that Sapling.io helps you share your voice, build your brand, and grow your presence — no matter where you’re starting from.
+
+
+---
+
+## 🚀 Features
+
+- Simple and responsive design
+- Customizable links
+- No frameworks or libraries — just pure HTML, CSS, and JS
+- Ready to deploy anywhere (Netlify, GitHub Pages, Vercel, etc.)
+
+---
+
+## 📦 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🌐 Live 
+[🌿 View Mine!](https://saplingio.netlify.app/)  
+
+---
+
+## 💡 Contributing  
+This project is open to community growth!  
+
+If you’d like to add features, improve the design, or extend functionality:  
+
+## 🗺️ Roadmap
+
+Planned future features:
+
+- Theme customization panel  
+- Dark/light mode toggle  
+- Profile image and bio  
+- Social media icons
+
+## 📌 Current Version
+
+**Version:** 1.0.0  (Beta)
+**Status:** MVP (Minimum Viable Product)  
+**Stack:** HTML, CSS, JavaScript  
+
+> This is the initial release of Sapling.io — lightweight, functional, and ready to be forked, customized, and evolved. Future enhancements are on the roadmap!
+
+
+## 🛠️ Getting Started
+
+To get a local copy up and running:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/sapling.io.git
+cd sapling.io
+open index.html
